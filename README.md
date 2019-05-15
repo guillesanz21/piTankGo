@@ -21,6 +21,7 @@ Proyecto piTankGo: manejo de una torreta a través de una Raspberry Pi. Programa
 
 - La carpeta piTankGo_1 contiene el código a cargar en la Raspberry Pi.
 - La carpeta Joystick-Torreta contiene el código a cargar en Arduino.
+- La carpeta Archuvos 3d contiene los archivos .stl de la torreta usada.
 
 # Manual de usuario
 
@@ -40,3 +41,13 @@ Si el usuario pulsa el botón 3, el juego terminará y no se podrá volver a jug
 # Distribución de pines de la Raspberry Pi
 
 ![Screenshot](Pines.png)
+
+# Descripción de la torreta y del sistema hardware
+
+Sistema Hardware:
+
+![Screenshot](Sistema.png)
+
+Torreta (motores usados: SG90): 
+
+![Screenshot](Torreta.png)
